@@ -7,4 +7,9 @@ fun main() {
     println("world")
     println("hello world")
     println("${a} + ${b} + ${a+b}")
+    var long = """
+        hello
+        world
+    """
+    println(long)
 }
