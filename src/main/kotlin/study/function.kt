@@ -2,12 +2,18 @@ package main.kotlin.study
 
 fun main() {
     helloworld()
-    print(add(1,9))
+    println(add(1,9))
+    println(kotlin())
 }
-fun helloworld() : Unit {
+
+fun helloworld() : Unit  { // Unit = 반환값 없음 (생략 가능)
     println("hello world")
 }
 
 fun add(a : Int, b : Int) : Int {
     return a + b
+}
+
+fun kotlin() : String {
+    return "Hello Kotlin"
 }
