@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.`class`
 
 // contructor = 오버로딩 생성자를 만들 수 있음
 

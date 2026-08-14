@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.`for`
 
 fun main() {
     for (i in 1..5) {

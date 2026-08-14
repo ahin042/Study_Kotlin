@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.array
 
 fun main(args: Array<String>) {
     val fruits = arrayOf("Apple", "Banana", "Orange")

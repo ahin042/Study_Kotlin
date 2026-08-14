@@ -1,4 +1,4 @@
-package study
+package main.kotlin.study.basic.variable
 
 class Variable { // 변수 설정
     val name = "name" // String / val 변경 불가능

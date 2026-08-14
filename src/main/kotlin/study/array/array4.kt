@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.array
 
 fun main() {
     val arr1 = Array(5,{0})   // 0 0 0 0 0

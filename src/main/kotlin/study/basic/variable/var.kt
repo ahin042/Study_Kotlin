@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.variable
 
 fun main(args : Array<String>) {
     var number = 1

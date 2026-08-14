@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.`if`
 
 fun main() {
     val a = true

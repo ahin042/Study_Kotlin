@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.array
 
 // val 변수명 = arrayOf<자료형/생략>(값1, 값2, 값3)
 fun main(args: Array<String>) {

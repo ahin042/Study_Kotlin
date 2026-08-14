@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.`while`
 
 fun main() {
     var i = 1

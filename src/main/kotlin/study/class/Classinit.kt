@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.`class`
 
 
 fun main() {

@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic
 
 fun main() {
     print("hello")

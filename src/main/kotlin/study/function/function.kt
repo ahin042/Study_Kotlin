@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.function
 
 fun main() {
     helloworld()

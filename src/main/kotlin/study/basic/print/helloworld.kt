@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.print
 
 fun main(args: Array<String>) {
     println("Hello world!")

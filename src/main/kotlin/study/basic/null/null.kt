@@ -1,4 +1,4 @@
-package main.kotlin.study
+package main.kotlin.study.basic.`null`
 
 fun main() {
     var a : Int? = null
