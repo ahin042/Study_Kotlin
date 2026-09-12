@@ -1,6 +1,6 @@
-package main.kotlin.study.basic.variable
+package main.kotlin.ch01_datatype
 
-class Variable { // 변수 설정
+fun main() {
     val name = "name" // String / val 변경 불가능
     val age = 20 // Int
     val weight = 15.5 // Double

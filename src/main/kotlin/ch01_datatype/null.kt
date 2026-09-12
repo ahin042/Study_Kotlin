@@ -1,4 +1,4 @@
-package main.kotlin.study.basic.`null`
+package main.kotlin.ch01_datatype
 
 fun main() {
     var a : Int? = null

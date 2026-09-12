@@ -1,4 +1,4 @@
-package main.kotlin.study.basic.variable
+package main.kotlin.ch01_datatype
 
 fun main(args : Array<String>) {
     var number = 1
