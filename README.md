@@ -1,5 +1,6 @@
 ## 파일구조
-`
+
+```
 src/main/kotlin
 ├── ch01_datatype          // 1.자료형과 변수
 ├── ch02_operator          // 2.연산자
@@ -15,4 +16,4 @@ src/main/kotlin
 ├── ch12_coroutine_thread  // 12.코루틴과 쓰레드
 ├── ch13_io_file           // 13.입출력과 파일
 └── study
-`
+```
